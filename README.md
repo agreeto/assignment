@@ -45,7 +45,7 @@ Your task is to add the outlook package and solve for the authentication strateg
   <img width="410" alt="image" src="https://user-images.githubusercontent.com/18185649/170488699-8d3de54b-042f-48b3-8474-6476371a1638.png">
 - Add microsoft oauth authentication to the web-remix app
   - *Note:* You can take inspiration from the google flow that you find, however ideally you find a way to persist the access token on the server & issue an JWT
-- Store the returned token in localStorage of the outlook api
+- Store the returned token in localStorage of the outlook add-in
 - If the user is now authenticated, display a list of 10 events in the add-in instead of the sign in page
 
 
